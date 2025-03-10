@@ -38,7 +38,7 @@
 ---
 
 ### Data Definition Language (DDL)
-1. **Write a MySQL command to create a table named "Students" with two columns.**  
+11. **Write a MySQL command to create a table named "Students" with two columns.**  
     `CREATE TABLE Students (id INT, name VARCHAR(50));`  
     This creates a table with an integer "id" and a variable-length "name" column.
 
@@ -57,7 +57,7 @@
 ---
 
 ### Data Manipulation Language (DML)
-1. **Write a MySQL query to insert a row into a table named "Employees."**  
+16. **Write a MySQL query to insert a row into a table named "Employees."**  
     `INSERT INTO Employees (id, name) VALUES (1, 'John');`  
     This adds a row with id 1 and name "John."
 
@@ -76,7 +76,7 @@
 ---
 
 ### Data Control Language (DCL)
-1. **What is the difference between GRANT and REVOKE in MySQL?**  
+21. **What is the difference between GRANT and REVOKE in MySQL?**  
     GRANT gives privileges to a user (e.g., SELECT), while REVOKE removes them. Both control access to database objects.
 
 22. **Write a MySQL command to grant SELECT privilege to a user.**  
@@ -95,7 +95,7 @@
 ---
 
 ### Pattern Matching
-1. **What is the purpose of the LIKE operator in MySQL?**  
+26. **What is the purpose of the LIKE operator in MySQL?**  
     LIKE is used for pattern matching in strings with wildcards (% and _). It filters data based on partial matches.
 
 27. **Write a query to find names starting with "A" using pattern matching.**  
@@ -115,7 +115,7 @@
 ---
 
 ### GROUP BY
-1. **What is the purpose of the GROUP BY clause in MySQL?**  
+31. **What is the purpose of the GROUP BY clause in MySQL?**  
     GROUP BY groups rows with identical values into summary rows, often used with aggregate functions like COUNT or SUM.
 
 32. **Write a query to count the number of employees in each department.**  
@@ -135,7 +135,7 @@
 ---
 
 ### IS NULL
-1. **What does the IS NULL operator do in MySQL?**  
+36. **What does the IS NULL operator do in MySQL?**  
     IS NULL checks if a column contains a NULL value. It’s used to filter rows with missing data.
 
 37. **Write a query to find records where the "email" column is null.**  
@@ -154,7 +154,7 @@
 ---
 
 ### DISTINCT
-1. **What is the purpose of the DISTINCT keyword in MySQL?**  
+41. **What is the purpose of the DISTINCT keyword in MySQL?**  
     DISTINCT eliminates duplicate rows from the result set, returning only unique values.
 
 42. **Write a query to retrieve unique cities from a "Customers" table.**  
@@ -173,7 +173,7 @@
 ---
 
 ### Optimization, MAX, and MIN Functions
-1. **What is the role of the MAX() function in MySQL? Give an example.**  
+46. **What is the role of the MAX() function in MySQL? Give an example.**  
     MAX() finds the highest value in a column. Example: `SELECT MAX(salary) FROM Employees;` returns the top salary.
 
 47. **Write a query to find the minimum salary from an "Employees" table.**  
@@ -193,7 +193,7 @@
 ---
 
 ### Using AUTO_INCREMENT
-1. **What is the purpose of AUTO_INCREMENT in MySQL?**  
+51. **What is the purpose of AUTO_INCREMENT in MySQL?**  
     AUTO_INCREMENT automatically generates unique, sequential numbers for a column, typically used for primary keys.
 
 52. **Write a CREATE TABLE statement with an AUTO_INCREMENT column.**  
