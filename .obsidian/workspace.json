@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Working with ListView Control.md",
+                "file": "Android/End Semester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working with ListView Control"
+              "title": "End Semester"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5086555480957,
-    "collapsed": true
+    "width": 236.5086555480957
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -192,8 +191,8 @@
   },
   "active": "202de45706397844",
   "lastOpenFiles": [
-    "Android/End Semester.md",
     "Android/Working with ListView Control.md",
+    "Android/End Semester.md",
     "Android/Android, Native Android Apps, Android SDK.md",
     "Android/Android Lab Practical.md",
     "Android/Android Introduction.md",
