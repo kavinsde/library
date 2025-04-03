@@ -13,3 +13,4 @@ https://www.tpointtech.com/knowledge-representation-in-ai
 https://www.slideshare.net/slideshow/issues-in-knowledge-representation/9290471
 
 https://medium.com/@dpthegrey/issues-in-knowledge-representation-4822fcb22e65
+
