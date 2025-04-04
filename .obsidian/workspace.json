@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9e8112bd108b3e",
+        "id": "2c574db9c2db53f4",
         "type": "tabs",
         "children": [
           {
-            "id": "074a3cab756248a5",
+            "id": "516464b70736b99b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,13 +189,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "074a3cab756248a5",
+  "active": "516464b70736b99b",
   "lastOpenFiles": [
+    "dotNET/End semester.md",
+    "dotNET/Two marks.md",
     "dotNET/attachments/WhatsApp Image 2025-04-03 at 17.55.07_4817f2d3.jpg",
     "dotNET/attachments",
-    "dotNET/End semester.md",
     "dotNET/Mid Semester.md",
-    "dotNET/Two marks.md",
     "dotNET/Assignment.md",
     "dotNET/dot NET Architecture.md",
     "AI/Artificial Intelligence and Expert Systems.md",
@@ -237,7 +237,6 @@
     "Biometrics/attachments/Pasted image 20250213222337.png",
     "Flutter/Learning",
     "NPTEL/Blockchain/attachments/Pasted image 20250121201911.png",
-    "NPTEL/Blockchain/attachments/Pasted image 20250119213749.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,5 +1,7 @@
 ![](attachments/WhatsApp%20Image%202025-04-03%20at%2017.55.07_4817f2d3.jpg)
 
+> Hii
+
 1. Inheritance in VB.NET is a feature that allows a class to inherit properties, methods, and events from another class. The inheriting class (child/derived class) can reuse, extend, or modify the behavior of the base class (parent class). In VB.NET, inheritance is implemented using the "Inherits" keyword.
     
 2. Attributes in VB.NET are declarative tags that add metadata to your code. They provide additional information about assemblies, classes, methods, properties, etc. Attributes are enclosed in square brackets and can modify the behavior of elements at runtime or provide information to tools during development.
